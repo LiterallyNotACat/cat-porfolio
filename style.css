@@ -18,7 +18,7 @@ body {
 .profile-container {
     position        : relative;
     background-color: rgb(39, 37, 39);
-    width           : 350px;
+    width           : 450px;
     padding         : 100px 50px 40px;
     border-radius   : 12px;
     display         : flex;
@@ -101,8 +101,8 @@ body {
 .social-container button {
     border          : none;
     outline         : none;
-    width           : 52px;
-    height          : 52px;
+    width           : 64px;
+    height          : 64px;
     border-radius   : 12px;
     font-size       : 15px;
     cursor          : pointer;
@@ -135,7 +135,6 @@ body {
 .profile-container:hover {
     transition      : 0.5s;
     box-shadow      : 0 0 30px 10px rgba(0, 0, 0, 0.507);
-    transform: scale(1.1);
 }
 
 .logo {
@@ -153,4 +152,10 @@ body {
 .logo-discord {
     width           : 32px;
     height          : 24px;
+}
+
+.discordcatto {
+    border-radius: 15px;
+    width: 410;
+    border: linear-gradient(45deg, #38fddc, #6a0499);
 }
