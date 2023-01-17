@@ -32,7 +32,7 @@ body {
     width        : 130px;
     height       : 130px;
     overflow     : hidden;
-    border       : linear-gradient(20deg, #00ffd5, #1900ff);
+    border       : linear-gradient(45deg, #38fddc, #6a0499);
     border-radius: 50%;
     box-shadow   : 0 8px 55px #008cffa4;
     position     : absolute;
@@ -126,7 +126,7 @@ body {
     background: linear-gradient(45deg, #33333388, #333333);
 }
 .social-container button.lbpp {
-    background: linear-gradient(45deg, #2600ff88, #00a2ff);
+    background: linear-gradient(45deg, #5436ff88, #056eac);
 }
 .social-container button.discord {
     background: linear-gradient(45deg, #6145ff88, #3e7edd);
